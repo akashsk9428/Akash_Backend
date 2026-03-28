@@ -1,0 +1,16 @@
+{
+  "name": "backend_6",
+  "version": "1.0.0",
+  "description": "First setup for professional projects",
+  "keywords": [
+    "javaScript",
+    "backEnd"
+  ],
+  "license": "ISC",
+  "author": "Akash Kulwade",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
